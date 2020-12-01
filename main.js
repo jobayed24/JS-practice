@@ -4,11 +4,11 @@ $(document).ready(function(){
 
 		let len=name.length;
 
-		let first =name[0];
+		let newValue=name.push("tushar");
 
-		let last=name[len-1];
 
-		window.alert(last);
+
+		window.alert(name);
 
 
 
