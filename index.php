@@ -6,6 +6,8 @@
 	<title>for js</title>
 </head>
 <body>
+
+	<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
 	<script src="main.js"></script>
 </body>
 </html>
