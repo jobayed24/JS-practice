@@ -4,9 +4,9 @@ $(document).ready(function(){
 
 		let len=name.length;
 
-		let newValue=name.pop("tushar");
+		let reValue=name.shift("jobayed");
 
-
+		let addValue=name.unshift("rakib");
 
 		window.alert(name);
 
